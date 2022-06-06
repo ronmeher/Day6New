@@ -6,7 +6,11 @@ namespace Day6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Day 6 Prpblems!\n");
+
+            Console.WriteLine("Fibonacci Series!\n");
+            Fibonacci p1 = new Fibonacci();
+            p1.run();
         }
     }
 }
