@@ -20,11 +20,14 @@ namespace Day6
             //ReverseNumbers p3 = new ReverseNumbers();   
             //p3.run();
 
-            Console.WriteLine("Prime Numbers!\n");
-            PrimeNumbers p4 = new PrimeNumbers();
-            p4.run();
+            //Console.WriteLine("Prime Numbers!\n");
+            //PrimeNumbers p4 = new PrimeNumbers();
+            //p4.run();
 
-           
+            Console.WriteLine("Coupon Numbers!");
+            CouponNumbers p5 = new CouponNumbers();
+            p5.run();
+
         }
     }
 }
