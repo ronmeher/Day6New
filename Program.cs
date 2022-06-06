@@ -16,9 +16,14 @@ namespace Day6
             //PerfectNumbers p2 = new PerfectNumbers();
             //p2.run();
 
-            Console.WriteLine("Reverse Numbers!\n");
-            ReverseNumbers p3 = new ReverseNumbers();   
-            p3.run();
+            //Console.WriteLine("Reverse Numbers!\n");
+            //ReverseNumbers p3 = new ReverseNumbers();   
+            //p3.run();
+
+            Console.WriteLine("Prime Numbers!\n");
+            PrimeNumbers p4 = new PrimeNumbers();
+            p4.run();
+
            
         }
     }
