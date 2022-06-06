@@ -12,9 +12,13 @@ namespace Day6
             //Fibonacci p1 = new Fibonacci();
             //p1.run();
 
-            Console.WriteLine("Perfect Numbers\n");
-            PerfectNumbers p2 = new PerfectNumbers();
-            p2.run();
+            //Console.WriteLine("Perfect Numbers\n");
+            //PerfectNumbers p2 = new PerfectNumbers();
+            //p2.run();
+
+            Console.WriteLine("Reverse Numbers!\n");
+            ReverseNumbers p3 = new ReverseNumbers();   
+            p3.run();
            
         }
     }
